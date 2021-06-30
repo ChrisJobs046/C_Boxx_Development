@@ -1,0 +1,19 @@
+{
+  "name": "c_boxx_development",
+  "version": "1.0.0",
+  "description": "aplicación web responsive con diferentes funcionalidades",
+  "main": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisJobs046/C_Boxx_Development.git"
+  },
+  "author": "Christopher Alexander",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChrisJobs046/C_Boxx_Development/issues"
+  },
+  "homepage": "https://github.com/ChrisJobs046/C_Boxx_Development#readme"
+}
